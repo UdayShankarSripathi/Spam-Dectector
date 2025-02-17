@@ -1,2 +1,2 @@
 # Spam-Dectector
-Spam Classifier
+Spam Classifier using Machine Learning algorithms NavieBayes and it's types.
